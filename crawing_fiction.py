@@ -16,7 +16,7 @@ for file in glob.glob('E:/result/*.txt'):
 
 
 def get_fiction_worker():
-    quote_page = 'https://www.xbiquge.cc/book/42534/'
+    quote_page = 'www.xxxxxxxxxxx.com'
 
     mainPage = urllib.request.urlopen(quote_page)
 
